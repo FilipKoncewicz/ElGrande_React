@@ -1,0 +1,3 @@
+[submodule "ElGrande_React"]
+	path = ElGrande_React
+	url = https://github.com/FilipKoncewicz/ElGrande_React.git
